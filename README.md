@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ddongguri-bing}?pet-id=1" width="1000" height="120"/>
-</a>
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/ddongguri-bing"
@@ -11,6 +5,7 @@
   height="300"
 />
 </a>
+
 <!--
 **ddongguri-bing/ddongguri-bing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
